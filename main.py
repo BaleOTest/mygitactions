@@ -11,3 +11,4 @@ def hello_again():
 
 
 print(hello())
+print(hello_again())
